@@ -123,7 +123,7 @@ Support the following actions
 
 ## Star
 
-The easiest way to support developers is to click on the star (⭐) at the top of the page.
+The easiest way to support developers is to click on the star at the top of the page.
 
 <p style="text-align: center;">
     <a href="https://api.star-history.com/svg?repos=chen08209/FlClash&Date">
